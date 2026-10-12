@@ -1,0 +1,8 @@
+{
+  "name": "Remix DIARRA ENERGIE \u0026 BUSINESS",
+  "description": "Plateforme web commerciale et boutique en ligne pour solutions solaires, éclairage public, pompage solaire et kits photovoltaïques en Afrique de l\u0027Ouest.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
